@@ -1,2 +1,2 @@
 # car_service
-geolab_project first and some kind of trash :D
+First Geolab project on car service
